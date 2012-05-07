@@ -2,7 +2,7 @@
 title: Community
 layout: default
 kicker: Community - Blog
-message: The Jentrata community is here to help
+message: The SciDom community is here to help
 current-cm: current_page_item
 ---
 

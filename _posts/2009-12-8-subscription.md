@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Get Supported
-excerpt: Jentrata support and consulting services
+excerpt: SciDom support and consulting services
 image: /images/support.png
-web-url: http://www.jentrata.com/
+web-url: http://kendoff.github.com/
 category: sidebar
 ---

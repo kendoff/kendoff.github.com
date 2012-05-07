@@ -1,20 +1,20 @@
 ---
-title: Open Source B2B Gateway
+title: Open Source SciDom
 layout: default
-kicker: Jentrata Open Source B2B Gateway
-message: With heritage from Hermes, Jentrata is enhanced, maintained, supported, and has an active community.
+kicker: SciDom Open Source B2B Gateway
+message: With heritage from Hermes, SciDom is enhanced, maintained, supported, and has an active community.
 ---
-# Welcome to Jentrata
+# Welcome to SciDom
 --------------------
 
-Jentrata is an Open Source B2B Gateway that uses the Hermes code as a baseline. Jentrata has taken the Hermes Gateway, 
+SciDom is an Open Source B2B Gateway that uses the Hermes code as a baseline. SciDom has taken the Hermes Gateway, 
 extended it and provided enhancements to it that improve its performance, configurability and maintainability. 
-Key amongst these improvements is the operational stability, and the provision for Jentrata to integrate directly with an ESB or other messaging backbone.
+Key amongst these improvements is the operational stability, and the provision for SciDom to integrate directly with an ESB or other messaging backbone.
 
 --------------------
-## Features of Jentrata
+## Features of SciDom
 
-* Jentrata is a pluggable and modular gateway that allows for easy extensibility.
+* SciDom is a pluggable and modular gateway that allows for easy extensibility.
 * Deployable to Tomcat, Jetty, JBoss AS, or any other JEE compliant Application Server.
 * Free, open source, standards based code
 * The same codebase for the supported and community versions

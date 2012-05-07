@@ -2,9 +2,9 @@
 title: Community
 layout: default
 kicker: Community
-message: The Jentrata community is here to help
+message: The SciDom community is here to help
 current-cm: current_page_item
-keywords: jentrata blog, jentrata issues, jentrata twitter
+keywords: scidom blog, scidom issues, scidom twitter
 ---
 
 <div class="auto-row-1">
@@ -14,7 +14,7 @@ keywords: jentrata blog, jentrata issues, jentrata twitter
 	</div>
 
 	<div data-place="1" class="auto-column" style="width: 295px; margin-right: 0px; float: right; min-height: 200px; ">
-		<p>Keep up to date on the latest releases, design, and feature discussions by following the Jentrata Blog.</p><p/>
+		<p>Keep up to date on the latest releases, design, and feature discussions by following the kendoff Blog.</p><p/>
 		<a href="/blog/" target="_self" title="" class="btn alignleft" style="display:block;">Read More</a>
 
 	</div>
@@ -28,7 +28,7 @@ keywords: jentrata blog, jentrata issues, jentrata twitter
 	</div>
 
 	<div data-place="1" class="auto-column" style="width: 295px; margin-right: 0px; float: right; min-height: 200px; ">
-		<p>We really want you to get involved in Jentrata and we love contributions. The first way to get involved is to join the community discussions. The main mailing list is hosted at the Jentrata google group.</p>
+		<p>We really want you to get involved in SciDom and we love contributions. The first way to get involved is to join the community discussions. The main mailing list is hosted at the SciDom google group.</p>
 		<p/>
 		<a href="http://groups.google.com/group/jentrata" target="_self" title="" class="btn alignleft" style="display:block;">Join Us!</a>
 
@@ -55,7 +55,7 @@ keywords: jentrata blog, jentrata issues, jentrata twitter
 	</div>
 
 	<div data-place="1" class="auto-column" style="width: 295px; margin-right: 0px; float: right; min-height: 200px; ">
-		<p>You can follw us on twitter by following @jentrata or alternatively searching for jentrata or the #jentrata tag.</p><p/>
+		<p>You can follw us on twitter by following @SciDom or alternatively searching for SciDom or the #SciDom tag.</p><p/>
 		<a href="http://twitter.com/jentrata" target="_self" title="" class="btn alignleft" style="display:block;">Follow Us</a>
 
 	</div>
@@ -68,7 +68,7 @@ keywords: jentrata blog, jentrata issues, jentrata twitter
 	</div>
 
 	<div data-place="1" class="auto-column" style="width: 295px; margin-right: 0px; float: right; min-height: 200px; ">
-		<p>You can also catch us on IRC to chat via #jentrata on irc.freenode.net. If you don't have an IRC client then try the web based IRC client or the freenode java applet.</p><p/>
+		<p>You can also catch us on IRC to chat via #SciDom on irc.freenode.net. If you don't have an IRC client then try the web based IRC client or the freenode java applet.</p><p/>
 		<a href="http://webchat.freenode.net/?channels=#jentrata" target="_self" title="" class="btn alignleft" style="display:block;">Chat</a>
 
 	</div>
@@ -95,7 +95,7 @@ keywords: jentrata blog, jentrata issues, jentrata twitter
 	</div>
 
 	<div data-place="1" class="auto-column" style="width: 295px; margin-right: 0px; float: right; min-height: 200px; ">
-		<p>Meet the Jentrata Team</p><p/>
+		<p>Meet the SciDom Team</p><p/>
 		<a href="/team.html" target="_self" title="" class="btn alignleft" style="display:block;">Meet</a>
 	</div>
 </div>
