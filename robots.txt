@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://kendoff.github.com/sitemap.xml
