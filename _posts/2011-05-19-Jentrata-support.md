@@ -14,4 +14,4 @@ SciDom subscriptions give you access to the latest technology as it is tested an
 
 If you are interested in lowering your deployment risk, receiving unlimited access to support and protecting your investment, then it is time to look at support.
 
-Follow this [link](http://www.jentrata.com) to see more about the support offerings available to you.
+Follow this [link](http://kendoff.github.com) to see more about the support offerings available to you.

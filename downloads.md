@@ -4,7 +4,7 @@ layout: default
 kicker: Downloads
 message: Build from source, start using immediately
 current-dw: current_page_item
-keywords: download jentrata, download hermes, latest jentrata, SciDom test
+keywords: download SciDom, latest SciDom, SciDom test
 ---
 ## Available Downloads
 -------------------
@@ -16,7 +16,7 @@ keywords: download jentrata, download hermes, latest jentrata, SciDom test
 
 SciDom stores its source code in a Git repository hosted on github at the following location:
 
-* [jentrata-msh](https://github.com/kendoff/scidom "SciDom Source Repository") 
+* [SciDom](https://github.com/kendoff/scidom "SciDom Source Repository") 
 
 If you are new to Git you might like to try the [Git guide for subversion users](http://git.or.cz/course/svn.html) or have a look at the [Git community book](http://book.git-scm.com/).
 

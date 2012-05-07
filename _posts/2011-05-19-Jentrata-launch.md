@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: What is Jentrata?
+title: What is SciDom?
 category: draft
 author: aaronwalker
 keywords: SciDom, ebXML, as2, open source
